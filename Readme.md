@@ -18,3 +18,7 @@ User {
 
 ### Mapper
 We will implement ```UserMapper``` class in order to map external api data in to ```User``` class and vise versa.
+
+
+### YouTube link
+[https://youtu.be/oaiwS5KFHEs](https://youtu.be/oaiwS5KFHEs)
